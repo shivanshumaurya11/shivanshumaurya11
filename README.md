@@ -45,8 +45,7 @@ I like working on full-stack products, automation tools, and AI-assisted workflo
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-### 🤖 AI / ML
-OpenCV • Hugging Face • scikit-image • FPDF • yt-dlp## 📌 Featured Projects
+
 
 ## 🧠 Featured Projects  
 
