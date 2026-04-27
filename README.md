@@ -3,10 +3,6 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Shivanshu Maurya
 </h1>
 
-<!-- 🔥 TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+%7C+Backend+%7C+React;Building+Scalable+Systems+🚀" />
-</p>
 
 <!-- 🎬 HERO GIF -->
 <p align="center">
@@ -26,8 +22,6 @@
 I’m a person who enjoys building practical, reliable, and scalable applications.
 
 I like working on full-stack products, automation tools, and AI-assisted workflows, with a strong focus on clean implementation and structured problem solving.
-
-# 🛠️ Section 3 — Tech Stack (More Logos)
 
 ## 🛠️ Tech Stack  
 
