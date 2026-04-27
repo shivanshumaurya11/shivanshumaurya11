@@ -21,17 +21,14 @@
   <img src="https://img.shields.io/badge/Code-Clean-success?style=for-the-badge" />
 </p>
 
-## 🚀 About Me  
+## 🚀 About Me
 
-```yaml
-name: Shivanshu Maurya
-focus: Full Stack + AI Systems
+I’m a person who enjoys building practical, reliable, and scalable applications.
 
----
+I like working on full-stack products, automation tools, and AI-assisted workflows, with a strong focus on clean implementation and structured problem solving.
 
 # 🛠️ Section 3 — Tech Stack (More Logos)
 
-```md
 ## 🛠️ Tech Stack  
 
 <p align="center">
